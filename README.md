@@ -3,4 +3,4 @@
 3. Activate the virtual env by keying in `.\activate.bat`
 4. run `python app.py`
 5. Send an email to `user@kittycloud.club` with a number from `0 to 1000` in the body of email
-6. Expect to see an email with MARs photo
+6. Expect to see an email with MARs photo in your inbox
